@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://learncode1107.github.io/csb-yw5y5i/static/css/main.5db950e4.chunk.css",
+    "main.js": "https://learncode1107.github.io/csb-yw5y5i/static/js/main.f127fc66.chunk.js",
+    "main.js.map": "https://learncode1107.github.io/csb-yw5y5i/static/js/main.f127fc66.chunk.js.map",
+    "runtime-main.js": "https://learncode1107.github.io/csb-yw5y5i/static/js/runtime-main.13eb9b94.js",
+    "runtime-main.js.map": "https://learncode1107.github.io/csb-yw5y5i/static/js/runtime-main.13eb9b94.js.map",
+    "static/js/2.ee452dee.chunk.js": "https://learncode1107.github.io/csb-yw5y5i/static/js/2.ee452dee.chunk.js",
+    "static/js/2.ee452dee.chunk.js.map": "https://learncode1107.github.io/csb-yw5y5i/static/js/2.ee452dee.chunk.js.map",
+    "index.html": "https://learncode1107.github.io/csb-yw5y5i/index.html",
+    "static/css/main.5db950e4.chunk.css.map": "https://learncode1107.github.io/csb-yw5y5i/static/css/main.5db950e4.chunk.css.map",
+    "static/js/2.ee452dee.chunk.js.LICENSE.txt": "https://learncode1107.github.io/csb-yw5y5i/static/js/2.ee452dee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13eb9b94.js",
+    "static/js/2.ee452dee.chunk.js",
+    "static/css/main.5db950e4.chunk.css",
+    "static/js/main.f127fc66.chunk.js"
+  ]
+}
